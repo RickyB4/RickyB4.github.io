@@ -10,6 +10,11 @@ header, footer, section {
     margin: 20px;
     padding: 15px;
 }
+header {
+    background-color: #808B96;
+    color: #000000;
+    text-align: center; 
+}
 
 nav ul {
     list-style-type: none;

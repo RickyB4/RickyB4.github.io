@@ -12,8 +12,18 @@ header, footer, section {
 }
 header {
     background-color: #222b36;
-    color: #000000;
+    color: #ffffff;
     text-align: center; 
+}
+
+h2 {
+    color: #ffffff
+}
+
+.projects {
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 4px;
 }
 
 nav ul {
@@ -32,7 +42,7 @@ a {
 }
 
 a:hover {
-    color: #017bff;
+    color: #5e9abd;
 }
 
 .button {
